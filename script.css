@@ -1,0 +1,1109 @@
+html {
+	font-size:70%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  font-size: 90%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-2Xk .auto-group-fszl-dnS {
+  padding: 4.9rem 5rem 9.8rem 4.58rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar-g8S {
+  margin: 0rem 0rem 4.1rem 0.82rem;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 9rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar-g8S .auto-group-t4xl-mva {
+  padding: 1rem 24.77rem 1rem 0rem;
+  height: 100%;
+  display: flex;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar-g8S .auto-group-t4xl-mva .exy-blog-hJS {
+  margin-right: 28.3943rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2175;
+  color: #3c96ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar-g8S .auto-group-t4xl-mva .home-Kai {
+  margin-right: 5.9547rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #3c96ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar-g8S .auto-group-t4xl-mva .blog-SfL {
+  margin-right: 7.1886rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar-g8S .auto-group-t4xl-mva .new-mxW {
+  margin-right: 6.0181rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar-g8S .auto-group-t4xl-mva .about-us-VtW {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar-g8S .button-RXG {
+  width: 15.2747rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 1rem 3.6rem rgba(61, 150, 255, 0.3000000119), 0 0 0 rgba(61, 150, 255, 0.3000000119);
+  background-color: #3c96ff;
+  border-radius: 9rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .banner-SBU {
+  margin-bottom: 7.85rem;
+  width: 100%;
+  height: 23.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .banner-SBU .rectangle-7-vcS {
+  width: 120.4203rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.05rem rgba(108, 108, 108, 0.5);
+  box-sizing: border-box;
+  box-shadow: 0 1rem 3.6rem rgba(0, 0, 0, 0.1599999964), 0 0 0 rgba(0, 0, 0, 0.0599999987);
+  background-color: #b5b5b5;
+  border-radius: 2.2rem;
+}
+.main-2Xk .auto-group-fszl-dnS .banner-SBU .image-2-NUS {
+  width: 120.4203rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  border-radius: 2.2rem;
+}
+.main-2Xk .auto-group-fszl-dnS .banner-SBU .group-13-5Nr {
+  padding: 2rem 43.755rem 2rem 1.983rem;
+  width: 54.081rem;
+  height: 7rem;
+  position: absolute;
+  left: 33.0283rem;
+  top: 16.5rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem rgba(108, 108, 108, 0.5);
+  box-shadow: 0 1rem 3.6rem rgba(0, 0, 0, 0.1599999964), 0 0 0 rgba(0, 0, 0, 0.0599999987);
+  background-color: #ffffff;
+  border-radius: 2.2rem;
+}
+.main-2Xk .auto-group-fszl-dnS .banner-SBU .group-13-5Nr .search-NMx {
+  margin-right: 0.439rem;
+  width: 2.704rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .banner-SBU .group-13-5Nr .search-uMt {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .banner-SBU .exy-blogcom-nAn {
+  width: 19.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 50.076rem;
+  top: 7.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar2-ptA {
+  margin: 0rem 31.868rem 7.3rem 33.967rem;
+  width: calc(100% - 65.8343rem);
+  height: 2.45rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar2-ptA .auto-group-crza-kG2 {
+  margin-right: 5.0422rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar2-ptA .auto-group-crza-kG2 .all-VzJ {
+  margin-bottom: 0.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #3c96ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar2-ptA .auto-group-crza-kG2 .line-1-dai {
+  margin-right: 0.0833rem;
+  width: 1.0825rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar2-ptA .rating-NYJ {
+  margin-right: 4.2755rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar2-ptA .best-Jwk {
+  margin-right: 5.9753rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar2-ptA .art-qAz {
+  margin-right: 3.2255rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar2-ptA .informatic-yHC {
+  margin-right: 2.2922rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar2-ptA .music-66v {
+  margin-right: 2.5755rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .navbar2-ptA .school-MoY {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .mainpost-smt {
+  margin: 0rem 2.528rem 6.2rem 0rem;
+  width: calc(100% - 2.5284rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .mainpost-smt .image-1-bxn {
+  margin-right: 2.6101rem;
+  width: 51.0818rem;
+  height: 45.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .mainpost-smt .auto-group-vfri-jp6 {
+  width: 64.2rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .mainpost-smt .auto-group-vfri-jp6 .informatic-art-tS6 {
+  margin-bottom: 2.65rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #3c96ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.main-2Xk .auto-group-fszl-dnS .mainpost-smt .auto-group-vfri-jp6 .beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-1mc {
+  margin-bottom: 1.1rem;
+  max-width: 58.2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2175;
+  color: #201849;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .mainpost-smt .auto-group-vfri-jp6 .in-the-realm-where-technology-and-art-seamlessly-converge-a-groundbreaking-revolution-unfolds-an-artistic-odyssey-guided-by-the-hand-of-artificial-intelligence-beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-invites-you-to-traverse-the-digital-atelier-where-algorithms-transcend-the-boundaries-of-imagination-from-captivating-visual-masterpieces-to-thought-provoking-sculptures-this-exploration-delves-into-the-intricate-dance-between-code-and-canvas-revealing-a-new-era-where-the-boundaries-of-human-and-machine-creativity-blur-into-a-mesmerizing-symphony-of-innovation-join-us-on-a-journey-through-the-pulsating-heart-of-ai-generated-art-where-pixels-become-poetry-and-circuits-compose-the-verses-of-a-new-artistic-language-welcome-to-the-future-of-artistic-expression-where-the-binary-becomes-boundless-and-the-canvas-expands-beyond-the-limits-of-the-tangible-into-the-uncharted-territories-of-the-virtually-sublime-WCa {
+  margin-bottom: 3.05rem;
+  max-width: 64.2rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .mainpost-smt .auto-group-vfri-jp6 .profile-9HU {
+  margin-right: 33.5681rem;
+  box-sizing: border-box;
+  padding-right: 9.6211rem;
+  width: calc(100% - 33.5681rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  border-radius: 8rem;
+}
+.main-2Xk .auto-group-fszl-dnS .mainpost-smt .auto-group-vfri-jp6 .profile-9HU .image-3-4vE {
+  margin-right: 1.2663rem;
+  width: 5.8445rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .mainpost-smt .auto-group-vfri-jp6 .profile-9HU .auto-group-uzsq-Gup {
+  margin: 0.7rem 0rem 0.95rem 0rem;
+  height: calc(100% - 1.65rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .mainpost-smt .auto-group-vfri-jp6 .profile-9HU .auto-group-uzsq-Gup .technew-CYa {
+  margin-bottom: 0.85rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #3c96ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .mainpost-smt .auto-group-vfri-jp6 .profile-9HU .auto-group-uzsq-Gup .monday-11-may-2023-imp {
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 {
+  margin: 0rem 0rem 6.9rem 0.02rem;
+  width: calc(100% - 0.0203rem);
+  height: 64.8rem;
+  display: flex;
+  column-gap: 7.7rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post1-vcz {
+  width: 35rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post1-vcz .rectangle-10-5kn {
+  margin-bottom: 3.2rem;
+  width: 35rem;
+  height: 26rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.2rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post1-vcz .beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-D6J {
+  margin-bottom: 1.35rem;
+  max-width: 32.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #201849;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post1-vcz .in-the-realm-where-technology-and-art-seamlessly-converge-a-groundbreaking-revolution-unfolds-an-artistic-odyssey-guided-by-the-hand-of-artificial-intelligence-beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-invites-you-to-traverse-the-digital-atelier-where-algorithms-transcend-the-boundaries-of-imagination-4Mp {
+  margin-bottom: 1.95rem;
+  max-width: 34.7rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post1-vcz .profile-dZL {
+  margin-right: 3.5532rem;
+  box-sizing: border-box;
+  padding-right: 10.2468rem;
+  width: calc(100% - 3.5532rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  border-radius: 8rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post1-vcz .profile-dZL .image-3-AZG {
+  margin-right: 1.3rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post1-vcz .profile-dZL .auto-group-r2jk-W7L {
+  margin: 0.7rem 0rem 0.95rem 0rem;
+  height: calc(100% - 1.65rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post1-vcz .profile-dZL .auto-group-r2jk-W7L .technew-SFt {
+  margin-bottom: 0.85rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #3c96ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post1-vcz .profile-dZL .auto-group-r2jk-W7L .monday-11-may-2023-knN {
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post2-qYv {
+  width: 35rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post2-qYv .rectangle-11-Nok {
+  margin-bottom: 3.2rem;
+  width: 35rem;
+  height: 26rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.2rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post2-qYv .beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-iMp {
+  margin-bottom: 1.35rem;
+  max-width: 32.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #201849;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post2-qYv .in-the-realm-where-technology-and-art-seamlessly-converge-a-groundbreaking-revolution-unfolds-an-artistic-odyssey-guided-by-the-hand-of-artificial-intelligence-beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-invites-you-to-traverse-the-digital-atelier-where-algorithms-transcend-the-boundaries-of-imagination-RGE {
+  margin-bottom: 1.95rem;
+  max-width: 34.7rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post2-qYv .profile-Nqg {
+  margin-right: 3.5532rem;
+  box-sizing: border-box;
+  padding-right: 10.2468rem;
+  width: calc(100% - 3.5532rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  border-radius: 8rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post2-qYv .profile-Nqg .image-3-7YN {
+  margin-right: 1.3rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post2-qYv .profile-Nqg .auto-group-fure-qDU {
+  margin: 0.7rem 0rem 0.95rem 0rem;
+  height: calc(100% - 1.65rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post2-qYv .profile-Nqg .auto-group-fure-qDU .technew-uz2 {
+  margin-bottom: 0.85rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #3c96ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post2-qYv .profile-Nqg .auto-group-fure-qDU .monday-11-may-2023-EmQ {
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post3-xhQ {
+  width: 35rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post3-xhQ .rectangle-12-vPL {
+  margin-bottom: 3.2rem;
+  width: 35rem;
+  height: 26rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.2rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post3-xhQ .beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-TPG {
+  margin-bottom: 1.35rem;
+  max-width: 32.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #201849;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post3-xhQ .in-the-realm-where-technology-and-art-seamlessly-converge-a-groundbreaking-revolution-unfolds-an-artistic-odyssey-guided-by-the-hand-of-artificial-intelligence-beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-invites-you-to-traverse-the-digital-atelier-where-algorithms-transcend-the-boundaries-of-imagination-xqp {
+  margin-bottom: 1.95rem;
+  max-width: 34.7rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post3-xhQ .profile-ZKp {
+  margin-right: 3.5532rem;
+  box-sizing: border-box;
+  padding-right: 10.2468rem;
+  width: calc(100% - 3.5532rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  border-radius: 8rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post3-xhQ .profile-ZKp .image-3-4Ga {
+  margin-right: 1.3rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post3-xhQ .profile-ZKp .auto-group-yjan-niN {
+  margin: 0.7rem 0rem 0.95rem 0rem;
+  height: calc(100% - 1.65rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post3-xhQ .profile-ZKp .auto-group-yjan-niN .technew-KyC {
+  margin-bottom: 0.85rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #3c96ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-j4pc-d86 .post3-xhQ .profile-ZKp .auto-group-yjan-niN .monday-11-may-2023-fXG {
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 {
+  margin: 0rem 0rem 9.8rem 0.02rem;
+  width: calc(100% - 0.0203rem);
+  height: 64.9rem;
+  display: flex;
+  column-gap: 7.7rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post4-tev {
+  width: 35rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post4-tev .rectangle-10-FEa {
+  margin-bottom: 3.2rem;
+  width: 35rem;
+  height: 26rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.2rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post4-tev .beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-P5t {
+  margin-bottom: 1.35rem;
+  max-width: 32.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #201849;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post4-tev .in-the-realm-where-technology-and-art-seamlessly-converge-a-groundbreaking-revolution-unfolds-an-artistic-odyssey-guided-by-the-hand-of-artificial-intelligence-beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-invites-you-to-traverse-the-digital-atelier-where-algorithms-transcend-the-boundaries-of-imagination-gan {
+  margin-bottom: 2.05rem;
+  max-width: 34.7rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post4-tev .profile-SCa {
+  margin-right: 3.5532rem;
+  box-sizing: border-box;
+  padding-right: 10.2468rem;
+  width: calc(100% - 3.5532rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  border-radius: 8rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post4-tev .profile-SCa .image-3-n1Y {
+  margin-right: 1.3rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post4-tev .profile-SCa .auto-group-vrvp-iQz {
+  margin: 0.7rem 0rem 0.95rem 0rem;
+  height: calc(100% - 1.65rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post4-tev .profile-SCa .auto-group-vrvp-iQz .technew-SLz {
+  margin-bottom: 0.85rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #3c96ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post4-tev .profile-SCa .auto-group-vrvp-iQz .monday-11-may-2023-AGz {
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post5-tTt {
+  width: 35rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post5-tTt .rectangle-11-3bg {
+  margin-bottom: 3.2rem;
+  width: 35rem;
+  height: 26rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.2rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post5-tTt .beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-MsG {
+  margin-bottom: 1.35rem;
+  max-width: 32.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #201849;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post5-tTt .in-the-realm-where-technology-and-art-seamlessly-converge-a-groundbreaking-revolution-unfolds-an-artistic-odyssey-guided-by-the-hand-of-artificial-intelligence-beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-invites-you-to-traverse-the-digital-atelier-where-algorithms-transcend-the-boundaries-of-imagination-3EJ {
+  margin-bottom: 2.05rem;
+  max-width: 34.7rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post5-tTt .profile-S1Y {
+  margin-right: 3.5532rem;
+  box-sizing: border-box;
+  padding-right: 10.2468rem;
+  width: calc(100% - 3.5532rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  border-radius: 8rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post5-tTt .profile-S1Y .image-3-mpW {
+  margin-right: 1.3rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post5-tTt .profile-S1Y .auto-group-5iy2-iUr {
+  margin: 0.7rem 0rem 0.95rem 0rem;
+  height: calc(100% - 1.65rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post5-tTt .profile-S1Y .auto-group-5iy2-iUr .technew-TBY {
+  margin-bottom: 0.85rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #3c96ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post5-tTt .profile-S1Y .auto-group-5iy2-iUr .monday-11-may-2023-PL6 {
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post6-i7U {
+  width: 35rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post6-i7U .rectangle-12-SpA {
+  margin-bottom: 3.2rem;
+  width: 35rem;
+  height: 26rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.2rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post6-i7U .beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-xnW {
+  margin-bottom: 1.35rem;
+  max-width: 32.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #201849;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post6-i7U .in-the-realm-where-technology-and-art-seamlessly-converge-a-groundbreaking-revolution-unfolds-an-artistic-odyssey-guided-by-the-hand-of-artificial-intelligence-beyond-binary-brushstrokes-a-symphony-of-creativity-unleashed-by-artificial-intelligence-invites-you-to-traverse-the-digital-atelier-where-algorithms-transcend-the-boundaries-of-imagination-44r {
+  margin-bottom: 2.05rem;
+  max-width: 34.7rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post6-i7U .profile-eYr {
+  margin-right: 3.5532rem;
+  box-sizing: border-box;
+  padding-right: 10.2468rem;
+  width: calc(100% - 3.5532rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  border-radius: 8rem;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post6-i7U .profile-eYr .image-3-z6v {
+  margin-right: 1.3rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post6-i7U .profile-eYr .auto-group-saq8-8D8 {
+  margin: 0.7rem 0rem 0.95rem 0rem;
+  height: calc(100% - 1.65rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post6-i7U .profile-eYr .auto-group-saq8-8D8 .technew-4ca {
+  margin-bottom: 0.85rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #3c96ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .auto-group-rcw4-n66 .post6-i7U .profile-eYr .auto-group-saq8-8D8 .monday-11-may-2023-Mra {
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .newsletter-fsG {
+  margin-right: 0.0662rem;
+  box-sizing: border-box;
+  padding: 3.6rem 21.853rem 3.2rem 21.927rem;
+  width: 120.3135rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.05rem rgba(108, 108, 108, 0.400000006);
+  background-color: #f4f4f4;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .newsletter-fsG .newsletter-nS6 {
+  margin: 0rem 0rem 7.4rem 0.012rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: rgba(199, 199, 199, 0.3000000119);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .newsletter-fsG .subscribe-to-our-weekly-newsletter-and-become-part-of-a-vibrant-community-receive-exclusive-summaries-discover-interesting-tips-and-stay-informed-with-engaging-content-dont-miss-out-on-the-chance-to-connect-with-like-minded-individuals-who-share-your-passion-join-us-on-this-journey-of-exploration-and-knowledge-sharing-your-inbox-is-about-to-become-a-hub-of-inspiration-be-part-of-our-community-subscribe-now-V5c {
+  margin: 0rem 0rem 7rem 0.012rem;
+  max-width: 76.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .newsletter-fsG .auto-group-uxa6-PaJ {
+  width: 100%;
+  height: 5.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .newsletter-fsG .auto-group-uxa6-PaJ .group-15-8Xt {
+  margin-right: 1.5757rem;
+  box-sizing: border-box;
+  padding: 1.8rem 0.8656rem;
+  width: 28.8233rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #2c2c2c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.05rem rgba(108, 108, 108, 0.400000006);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .newsletter-fsG .auto-group-uxa6-PaJ .group-16-9Sz {
+  box-sizing: border-box;
+  padding: 0.5rem 0.486rem 0.5rem 0.866rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem rgba(108, 108, 108, 0.400000006);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .newsletter-fsG .auto-group-uxa6-PaJ .group-16-9Sz .email-5Le {
+  margin-right: 28.0235rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #2c2c2c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .auto-group-fszl-dnS .newsletter-fsG .auto-group-uxa6-PaJ .group-16-9Sz .group-17-c5g {
+  width: 12.2593rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.05rem rgba(108, 108, 108, 0.400000006);
+  box-sizing: border-box;
+  background-color: #3c96ff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.main-2Xk .footer-bCW {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f4f4;
+  flex-shrink: 0;
+}
+.main-2Xk .footer-bCW .auto-group-pcae-9jp {
+  box-sizing: border-box;
+  padding: 2.7rem 15.527rem 1.9rem 15.473rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.main-2Xk .footer-bCW .auto-group-pcae-9jp .exy-blog-3KQ {
+  margin: 0rem 0rem 4.6rem 0.033rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-2Xk .footer-bCW .auto-group-pcae-9jp .explore-our-digital-space-for-captivating-ideas-stories-and-knowledge-dive-into-our-blog-with-engaging-content-on-culture-technology-creativity-and-science-join-us-on-this-journey-of-discovery-and-learning-our-commitment-is-to-provide-valuable-information-entertaining-content-and-meaningful-connections-be-inspired-as-we-share-experiences-to-enrich-your-digital-life-7q4 {
+  margin-bottom: 3.6rem;
+  max-width: 99rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #6c6c6c;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main-2Xk .footer-bCW .auto-group-pcae-9jp .group-14-7MC {
+  margin: 0rem 40.373rem 0rem 40.427rem;
+  width: calc(100% - 80.8rem);
+  display: flex;
+  column-gap: 1.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main-2Xk .footer-bCW .auto-group-pcae-9jp .group-14-7MC .facebook-1xN {
+  width: 2.6rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-2Xk .footer-bCW .auto-group-pcae-9jp .group-14-7MC .instagram-8GJ {
+  width: 2.6rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-2Xk .footer-bCW .auto-group-pcae-9jp .group-14-7MC .twitter-TJa {
+  width: 2.6rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-2Xk .footer-bCW .auto-group-pcae-9jp .group-14-7MC .linkedin-PT8 {
+  width: 2.6rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-2Xk .footer-bCW .auto-group-pcae-9jp .group-14-7MC .github-8fc {
+  width: 2.6rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-2Xk .footer-bCW .auto-group-9s2a-ffY {
+  width: 100%;
+  height: 9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #5b5b5b;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.05rem rgba(108, 108, 108, 0.400000006);
+  box-sizing: border-box;
+  background-color: #f4f4f4;
+  flex-shrink: 0;
+}
